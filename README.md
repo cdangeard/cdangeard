@@ -1,6 +1,6 @@
 ### Hello there
 
-I'm a curious and passionate Data engeneer for Business and Decision (Orange Business direction)
+I'm a curious and passionate Data engineer for Business and Decision (Orange Business direction)
 
 I have a Statistical background, with an emphasis on ML.
 
