@@ -10,13 +10,14 @@ I have worked on :
   * PIG/Hadoop database requesting for the Credit Mutuel Arkea (Bank).
   * Conception and developement of Nifi dataflows for La Poste (Actual)
 
-On the side i like :
-  * Coding small games/bots on python
-  * Throwing frisbees
-  * Reading & Listening to History Podcast
+On the side I:
+  * Code small games/bots on python
+  * Throw frisbees
+  * Teach a Sklearn Course at IAE University (Nantes)
+  * Read  & Listen to History Podcast
   * Improve my Protoss macro
 
-I like to work on :
+I'd like to work on :
   * Python
   * Architecture (i'd like to learn from senior Archi)
   * Meaningfull project
