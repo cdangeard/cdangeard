@@ -7,12 +7,13 @@ I have a Statistical background, with an emphasis on ML.
 I have worked on :
   * Statistical studies on employement and education around Rennes.
   * Prediction and data visualisation for Enedis (EDF). (Cartograghy, Factory location problem, ML ...)
-  *  PIG/Hadoop database requesting for the Credit Mutuel Arkea (Bank).
-  *  Conception and developement of Nifi dataflows for La Poste (Actual)
+  * PIG/Hadoop database requesting for the Credit Mutuel Arkea (Bank).
+  * Conception and developement of Nifi dataflows for La Poste (Actual)
 
 On the side i like :
   * Coding small games/bots on python
   * Throwing frisbees
+  * Reading & Listening to History Podcast
   * Improve my Protoss macro
 
 I like to work on :
