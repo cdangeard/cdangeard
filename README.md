@@ -2,7 +2,7 @@
 
 I'm a curious and passionate Data engineer for Orange Business
 
-I have a Statistical background, with an emphasis on ML.
+I have a Statistical background (Md in applied Mathematics), with an emphasis on ML.
 
 I have worked on :
   * Statistical studies on employement and education around Rennes.
