@@ -21,5 +21,5 @@ Currently, I'm focused on mastering data architecture and building meaningful, h
 
 ### 🎲 Beyond the Code
 * **Teaching:** Sharing the Python & `scikit-learn` love with students at IAE University (Nantes).
-* **Side Projects:** Building small games, automation bots, and constantly optimizing my **Protoss macro** 👽.
+* **Side Projects:** Building small games, automation bots, and constantly optimizing my **Protoss macro**.
 * **Life:** Ultimate frisbee enthusiast, history buff, and avid science podcast listener.
