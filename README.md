@@ -1,23 +1,25 @@
-### Hello there !
+# Hello there,
 
-I'm a curious and passionate Data engineer for Orange Business
+I am a passionate **Data Engineer at Orange Business** with an M.Sc. in Applied Mathematics and a strong foundation in Machine Learning. I bridge the gap between rigorous statistical theory and scalable data infrastructure. 
 
-I have a Statistical background (Md in applied Mathematics), with an emphasis on ML.
+Currently, I'm focused on mastering data architecture and building meaningful, high-impact projects.
 
-I have worked on :
-  * Statistical studies on employement and education around Rennes.
-  * Prediction and data visualisation for Enedis (EDF). (Cartograghy, Factory location problem, ML ...)
-  * PIG/Hadoop database requesting for the Credit Mutuel Arkea (Bank).
-  * Conception and developement of dataflows for La Poste (Actual)
+---
 
-On the side I:
-  * Code small games/bots on python
-  * Throw frisbees
-  * Teach scikit-learn & Python at IAE University (Nantes)
-  * Read & Listen to podcasts about History & Science
-  * Improve my Protoss macro
+### What I Do
+* **Current:** Designing dataflows and infrastructure using **Apache NiFi** for a major SAP migration at *La Poste*.
+* **Past Impact:** * Optimized big data workflows with **Pig/Hadoop** for *Crédit Mutuel Arkéa*.
+    * Built ML predictive models and geospatial visualizations (Factory Location Problem) for *Enedis*.
+    * Conducted regional statistical studies on employment and education in Rennes.
 
-I'd like to work on :
-  * Python
-  * Architecture (i'd like to learn from senior Archi)
-  * Meaningfull project
+### Core Stack & Interests
+* **Languages & Frameworks:** Python, Scikit-Learn, Databricks
+* **Data Engineering:** Apache NiFi, Hadoop Ecosystem, Data Architecture, ETL/ELT
+* **Looking for:** Opportunities to write clean **Python**, collaborate with senior architects, and work on projects with a strong purpose.
+
+---
+
+### 🎲 Beyond the Code
+* **Teaching:** Sharing the Python & `scikit-learn` love with students at IAE University (Nantes).
+* **Side Projects:** Building small games, automation bots, and constantly optimizing my **Protoss macro** 👽.
+* **Life:** Ultimate frisbee enthusiast, history buff, and avid science podcast listener.
