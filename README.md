@@ -8,7 +8,8 @@ Currently, I'm focused on mastering data architecture and building meaningful, h
 
 ### What I Do
 * **Current:** Designing dataflows and infrastructure using **Apache NiFi** for a major SAP migration at *La Poste*.
-* **Past Impact:** * Optimized big data workflows with **Pig/Hadoop** for *Crédit Mutuel Arkéa*.
+* **Past Impact:**
+    * Optimized big data workflows with **Pig/Hadoop** for *Crédit Mutuel Arkéa*.
     * Built ML predictive models and geospatial visualizations (Factory Location Problem) for *Enedis*.
     * Conducted regional statistical studies on employment and education in Rennes.
 
